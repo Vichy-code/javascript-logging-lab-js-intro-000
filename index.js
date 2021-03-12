@@ -1,1 +1,1 @@
-index call console.console.log();
+console. error("HALP!");
